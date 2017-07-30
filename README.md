@@ -1,2 +1,3 @@
-# ilug-d_brand_logo
-ILUG-D(Local Community Group) Brand Logo
+# ILUG-D_brand_logo
+This repo contain ILUG-D logo and branding info.
+Font and raw file is in the folder.

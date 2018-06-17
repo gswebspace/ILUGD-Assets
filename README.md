@@ -1,5 +1,6 @@
-# ILUG-D_brand_logo
-This repo contain ILUG-D logo and branding info.<br>
-Font and raw file is in the folder.
+# ILUGD Assets
+The repo contains all the assests related to ILUGD :
+ - Logo
+ - Mail Template for Speakers
 
-Created by Rajat Saini 
+Thanks to Rajat Saini for the Logo

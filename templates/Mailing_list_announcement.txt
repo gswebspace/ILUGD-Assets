@@ -8,26 +8,34 @@ Remember to:
     * Be on time and reach at the venue on time
     * Go through the prerequisite of every talk according to the speaker's instructions.
     * Bring your awesome hacks to show us.
+    * Be respectful to everyone at the event.
+    * Follow mailing list guidelines.
 
 See you at the event! 
 
-Github Repository: https://github.com/ILUGD
-Telegram Group: tg://join?invite=AAAAAEAc48wCHkUXViXBcg
-
+Website: https://linuxdelhi.org
+Github Repository: https://github.com/ilugd
+IRC channel: #ilugdelhi on Freenode
+Mailing list: http://frodo.hserus.net/mailman/listinfo/ilugd
 Paytm/Donate us at the meetup itself or at: <TBD>
 
+---
 If you want to volunteer and help in organizing the meetup, join our telegram group. Our every meetup is organized with the help of volunteers like you. If you want to donate us to help the community grow, you can reach to our volunteers. Each and every penny is used for community and anyone can ask for the balance sheet too. You can also help us by sponsoring food or venue for our meetups.
 
-
 Note: ILUG-D, India Linux User Group of Delhi, is a non-profit organization run by volunteers and community that promotes a healthy hacking environment and open source culture. We do not differentiate on any basis. People of all age, gender and background are heartily welcome. We believe in community and help each other.
+
+[1]: link1
+[2]: link2
 
 ---------------------------------------------------------------------
 
 (Concluding Meetup)
 This concludes our awesome meetup that happened today at <venue>. Thanks to all attendees who joined us and our <venue_partner> hosting our meetup to make this event a success. Any of the social engagement depends on the people themselves and to improve our next event, we would like to have your feedback, complaints, and suggestions on the following link, or on our telegram group. Minutes of the meeting will be released soon after the meetup highlighting the cool and awesome talks we had, the decision we took as a community to improve the Hacker culture among us.
 
-Github Repository: https://github.com/ILUGD
-Telegram Group: tg://join?invite=AAAAAEAc48wCHkUXViXBcg
-Paytm/Donate us at the meetup itself or at : <TBD>
+Website: https://linuxdelhi.org
+Github Repository: https://github.com/ilugd
+IRC channel: #ilugdelhi on Freenode
+Mailing list: http://frodo.hserus.net/mailman/listinfo/ilugd
+Paytm/Donate us at the meetup itself or at: <TBD>
 
 If you want to volunteer and help in organizing the meetup, join our telegram group. Our every meetup is organized with the help of volunteers like you. If you want to donate us to help the community grow, you can reach to our volunteers. Each and every penny is used for community and anyone can ask for the balance sheet too. You can also help us by sponsoring food or venue for our meetups.
